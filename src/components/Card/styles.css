@@ -1,0 +1,27 @@
+.card-image{
+  background-color: #212121;
+  box-shadow: 4px 6px 14px #00000036;
+  border-radius: 10px;
+  margin: 10px 0;
+  height: 8rem;
+  display: flex;
+  transition: 0.5s;
+}
+.card-image>img{
+margin: auto;
+}
+
+.card-image:hover{
+  transform: translateY(-20px);
+}
+
+.card-image>img:hover{
+  display: block;
+}
+
+p{
+  color: #585858;
+}
+h4{
+  font-family: 'Poppins Medium';
+}
