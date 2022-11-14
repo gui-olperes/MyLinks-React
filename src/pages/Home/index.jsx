@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import photo from '../../assets/foto.png';
+import photo from '../../assets/foto.webp';
 import github from '../../assets/github.webp';
 import email from '../../assets/email.webp';
 import linkedin from '../../assets/linkedin.webp';
